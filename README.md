@@ -1,1 +1,1 @@
-# Boost_Converter
+The project involves the design, simulation, and hardware implementation of a DC–DC boost converter, analyzing the performance of each component waveform, overall efficiency, and THD under variable operating conditions. The system was developed and tested using MATLAB/PLECS simulations, a custom driver board with Wavect-generated pulses, and real-time validation through power analyzers and oscilloscopes.
